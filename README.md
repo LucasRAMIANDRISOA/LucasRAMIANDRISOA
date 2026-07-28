@@ -48,7 +48,7 @@ I enjoy building realistic lab environments involving **Active Directory, VLAN s
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cisco/cisco-original.svg" height="45"/>
 
-<img src="https://cdn.simpleicons.org/gns3/29475C" height="45"/>
+<img src="/home/luca/Documents/GitHub/LucasRAMIANDRISOA/images.jpg" height="45"/>
 
 <img src="https://cdn.simpleicons.org/pfsense/212529" height="45"/>
 
