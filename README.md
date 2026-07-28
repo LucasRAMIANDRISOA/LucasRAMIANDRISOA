@@ -23,28 +23,25 @@ Student at the **National School of Computer Science (ENI)** specializing in Sys
 
 <br />
 
-<!-- TECH STACK & ARSENAL (LOGOS EN GRANDE TAILLE) -->
+<!-- TECH STACK & ARSENAL -->
 ## 🛠️ Tech Arsenal & Tools
 
 ### 🌐 Networking & Cybersecurity
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cisco,pfsense,suricata,wireshark&perline=8" alt="Networking & Security Tools" />
-  </a>
-</p>
 <p>
   <img src="https://img.shields.io/badge/GNS3-29475C?style=for-the-badge&logo=gns3&logoColor=white" alt="GNS3" />
+  <img src="https://img.shields.io/badge/Cisco_IOS-12557A?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" />
+  <img src="https://img.shields.io/badge/pfSense-212529?style=for-the-badge&logo=pfsense&logoColor=white" alt="pfSense" />
+  <img src="https://img.shields.io/badge/Suricata_WIDS-E23B24?style=for-the-badge&logo=suricata&logoColor=white" alt="Suricata" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
   <img src="https://img.shields.io/badge/OSPF_&_RIPv2-00599C?style=for-the-badge&logo=cisco&logoColor=white" alt="Routing Protocols" />
   <img src="https://img.shields.io/badge/VLAN_Isolation-E23B24?style=for-the-badge&logo=suricata&logoColor=white" alt="VLAN Isolation" />
 </p>
 
 ### 🖥️ Systems & Virtualization
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,windows&perline=8" alt="Systems & OS" />
-  </a>
-</p>
 <p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Ubuntu_Server-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
+  <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian" />
   <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Server" />
   <img src="https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Active Directory" />
   <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox" />
@@ -52,10 +49,15 @@ Student at the **National School of Computer Science (ENI)** specializing in Sys
 </p>
 
 ### 💻 Development & Monitoring
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,react,nodejs,express,flask,mysql,git,github,bash,powershell&perline=10" alt="Development Stack" />
-  </a>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
 </p>
 
 <br />
