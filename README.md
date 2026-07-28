@@ -175,19 +175,6 @@ I enjoy building realistic lab environments involving **Active Directory, VLAN s
 
 ---
 
-# 📈 GitHub Stats
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=Lucca7&show_icons=true&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Lucca7&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucca7&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
 
 # 🤝 Let's Connect
 
